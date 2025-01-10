@@ -1,0 +1,2 @@
+# VKR
+diplom HSE repo
